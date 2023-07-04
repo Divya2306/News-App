@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    },
+    {
+      "source": { "id": "focus", "name": "Focus" },
+      "author": "FOCUS online",
+      "title": "Deutsche Hockey-Herren nach WM-Sieg überwältigt: „Einige sind so oft gestürzt“",
+      "description": "Welch ein Hockey-Krimi bei der Weltmeisterschaft in Indien. Deutschland gewinnen im Penaltyschießen gegen Belgien und feiert den ersten WM-Titel seit 17 Jahren. „Das ist die Comeback-Mannschaft aller Zeiten“, sagt der begeisterte DHB-Präsident Henning Fastric…",
+      "url": "https://www.focus.de/sport/mehrsport/deutschland-ist-hockey-weltmeister-deutsche-hockey-herren-voellig-ueberwaeltigt-einige-sind-so-oft-gestuerzt_id_184384953.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_184385859/die-deutsche-hockey-nationalmannschaft-stemmt-den-wm-pokal-in-die-hoehe.jpg?im=Crop%3D%280%2C120%2C3379%2C1691%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=medium&hash=f8b0ac5f7218cd947bdba49b3eec0c5c0b91e41c0bd53b750a093e3b376e4e17",
+      "publishedAt": "2023-01-29T17:04:37Z",
+      "content": "Das Wichtigste\r\n<ul><li>Welch ein Hockey-Krimi bei der Weltmeisterschaft in Indien. </li><li>Deutschland gewinnen im Penaltyschießen gegen Belgien und feiert den ersten WM-Titel seit 17 Jahren. </li>… [+3454 chars]"
+    },
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "When the Penguins have an emergency, they call on someone from N.S. It's not who you think | CBC News",
+      "description": "Mike Chiasson, from Cole Harbour, N.S., is an emergency backup goalie for the NHL's Pittsburgh Penguins. The former Acadia Axemen is lifelong friends with one of Cole Harbour's other famous hockey players: Sidney Crosby.",
+      "url": "http://www.cbc.ca/news/canada/nova-scotia/mike-chiasson-cole-harbour-pittsburgh-penguins-emergency-backup-goaltender-ebug-1.6729615",
+      "urlToImage": "https://i.cbc.ca/1.6729697.1674928804!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mike-chiasson.jpg",
+      "publishedAt": "2023-01-29T16:07:19.5565482Z",
+      "content": "Mike Chiasson was in the stands at Fenway Park for the NHL's Winter Classic in Boston earlier this year when the starting goalie for the Pittsburgh Penguins, Tristan Jarry, was injured in the first p… [+6928 chars]"
+    },
+    {
+      "source": { "id": "nhl-news", "name": "NHL News" },
+      "author": "Mike Zeisberger",
+      "title": "Zizing 'Em Up: Coyotes 'open' to deals ahead of NHL Trade Deadline",
+      "description": "NHL.com staff writer Mike Zeisberger has been covering the NHL regularly since 1999. Each Sunday during the season, he will use his extensive network of hockey contacts to write his weekly notes column, \"Zizing 'Em Up.\"",
+      "url": "https://www.nhl.com/news/zizing-em-up-arizona-coyotes-gm-bill-armstrong-open-to-trade-deadline-deals/c-340535930",
+      "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/340536706/1024x576/cut.jpg",
+      "publishedAt": "2023-01-29T06:44:54Z",
+      "content": "NHL.com staff writer Mike Zeisberger has been covering the NHL regularly since 1999. Each Sunday during the season, he will use his extensive network of hockey contacts to write his weekly notes colu… [+9256 chars]"
+    }
+  ]
+}
